@@ -1,0 +1,76 @@
+[
+    
+    {
+        "nombre": "ABM CLIENTES",
+        "descripcion": "Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS, PHP, Bootstrap y Json.",
+        "repositorio": "https://github.com/roldante05/php/tree/main/abmclientes",
+        "demo":"",
+        "imagen": "https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/abmclientes.png"
+    },
+    {
+        "nombre": "SISTEMA DE GESTIÓN DE VENTAS",
+        "descripcion": "Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.",
+        "repositorio": "https://github.com/roldante05/php/tree/main/sistema_ventas",
+        "demo":"",
+        "imagen": "https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/abmventas.png"
+    },
+    {
+        "nombre": "GESTOR DE TAREAS",
+        "descripcion": "Crear, eliminar y editar una tarea, Realizado en HTML, CSS, PHP, MVC, Bootstrap y Json ",
+        "repositorio": "https://github.com/roldante05/php/tree/main/gestor_de_tareas",
+        "demo":"",
+        "imagen": "https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/tareas.png"
+    },
+    {
+        "nombre": "COMENTARIOS",
+        "descripcion": "Crear, eliminar y editar un comentario, Realizado en HTML, CSS, PHP, MVC, Bootstrap y MySQL ",
+        "repositorio": "https://github.com/roldante05/5-proyectos-php/tree/main/Comentarios'",
+        "demo":"",
+        "imagen": "https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/comentarios.png"
+    },
+    {
+        "nombre": "PADLET",
+        "descripcion": "Crear, eliminar y editar un padlet, Realizado en Laravel 9, Bootstrap y CSS ",
+        "repositorio": "https://github.com/roldante05/laravel-9/tree/main/padlet",
+        "demo":"",
+        "imagen":"https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/padlet.jpg",
+        "url": ""
+    },
+    {
+        "nombre": "ECOMMERCE DE HAMBURGUESA",
+        "descripcion": "Ecommerce con sistema de pedidos, inicio de sesión y registro, Desarrollado en PHP, Laravel, MySQL, Javascript, jQuery, AJAX, HTML, CSS, Bootstrap y API de MP",
+        "repositorio": "https://github.com/roldante05/laravel/tree/main/burger2022",
+        "demo":"",
+        "imagen":"https://raw.githubusercontent.com/roldante05/react-projects/main/portfolio-react/src/assets/images/proyectos/roldy-bur.png",
+        "url": ""
+    },
+    {
+        "nombre": "RULETA MENTORING",
+        "descripcion": "Desarrollado en colobaroación con compañeros de Fundación Pescar, Realizado con HTML, CSS, Javascript, Boostrap y libreria de Winwheel.js",
+        "repositorio": "https://lnkd.in/dK3fXmHk",
+        "demo":"https://mentoring-santander-gamma.vercel.app/",
+        "imagen":"https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/mentoring.jpg",
+        "url": ""
+    },
+    {
+        "nombre": "E-LEARNING",
+        "descripcion": "E-learning desarrollado en colobaroación con compañeros de Fundación Pescar, Realizado con HTML, CSS, Javascript, Boostrap y PHP",
+        "repositorio": "https://github.com/BOTPili/proyecto-pescar",
+        "demo":"https://danterol.000webhostapp.com/educart/pages/index.php",
+        "imagen":"https://raw.githubusercontent.com/roldante05/react-projects/main/portfolio-react/src/assets/images/proyectos/educarte.png",
+        "url": ""
+    },
+    {
+        "nombre": "RICK & MORTY",
+        "descripcion": "Barra de busqueda de personajes de la serie RICK&MORTY, realizado con React.JS, Bootstrap y Api de rick&morty",
+        "repositorio": "https://lnkd.in/dn9AuYH2",
+        "demo":"https://lnkd.in/dmgebqeN",
+        "imagen":"https://raw.githubusercontent.com/roldante05/portfolio/master/images/img-proyectos/rickymortyar.png",
+        "url": ""
+    }
+]
+    
+
+    
+    
+    
